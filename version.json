@@ -1,5 +1,9 @@
 {
   "latest": "3.5.5.5",
   "dropver": "3.5.5.0",
-  "updateurl": "https://github.com/FoxChocolate/USMOH/blob/master/USMoH.luac?raw=true"
+  "updateurl": "https://github.com/FoxChocolate/USMOH/blob/master/USMoH.luac?raw=true",
+  "updatetext": [
+    "1. Исправлена ошибка в команде /seth",
+    "Есть идеи? Жду их в Discord: MsFoxy#0918"
+  ]
 }
